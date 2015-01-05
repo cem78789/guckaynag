@@ -1,4 +1,3 @@
-__author__ = 'ICY'
 ## Ismail Cem Yilmaz
 ## Resim indirici
 from bs4 import BeautifulSoup
