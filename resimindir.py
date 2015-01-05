@@ -53,6 +53,6 @@ def calistir(site):
         if a.startswith('http') and resim.resimkontrol(a.split('/')[-1]):
             resim.resimindir(a)
 
-calistir("forum.donanimhaber.com/m_101249063/tm.htm")
+
 
 
